@@ -5,7 +5,6 @@ function Customer() {
     return (
         <View>
             <Text>Customer</Text>
-            <Link href='/'>Goto Dashboard</Link>
         </View>
     );
 }

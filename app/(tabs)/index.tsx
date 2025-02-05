@@ -4,9 +4,7 @@ import {Link} from "expo-router";
 function Index(){
     return(
         <View>
-            <Text>Hello World!</Text>
-
-            <Link href='/customer'>Goto Customer</Link>
+            <Text>Dashboard</Text>
         </View>
     );
 }
